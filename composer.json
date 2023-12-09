@@ -1,0 +1,17 @@
+{
+    "name": "dikal/pbo",
+    "description": "Pemograman Berorientasi Objek",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dikal"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"App"
+        }
+    }
+
+}
